@@ -1,0 +1,4 @@
+**.runNumber
+data/*.json
+env/**
+*.csv
