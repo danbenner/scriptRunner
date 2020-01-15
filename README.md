@@ -6,8 +6,6 @@
 
 - golang (developed with 1.12.7)
 
-- cobra (CLI package)
-
 - python (developed with 2.7.15)
 
 
