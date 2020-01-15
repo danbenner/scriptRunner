@@ -10,12 +10,6 @@
 
 - python (developed with 2.7.15)
 
-- teradata package
-
-- pymongo
-
-- teradata ODBC driver
-
 
 # Environment Setup
 
