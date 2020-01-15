@@ -21,14 +21,6 @@
 
     `python -V`
 
-  - Download the python package manager
-
-    `pip install teradata`
-
-  - Download the pymongo teradata package
-
-    `pip install pymongo`
-
 
 ## Golang
 
