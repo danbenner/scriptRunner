@@ -11,17 +11,6 @@
 
 # Environment Setup
 
-## Python
-  
-  - Download and install Python (Your mac probably already has it installed though)
-
-    `brew install python@2`
-
-  - Test your python installation
-
-    `python -V`
-
-
 ## Golang
 
   - Download golang [here](https://golang.org/dl/)
@@ -37,3 +26,13 @@
   - Ensure `GOBIN` is set in your .bash_profile
 
     `export GOBIN=$GOPATH/bin`
+
+## Python
+  
+  - Download and install Python (Your mac probably already has it installed though)
+
+    `brew install python@2`
+
+  - Test your python installation
+
+    `python -V`
