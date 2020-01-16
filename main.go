@@ -14,8 +14,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	scriptPath := filepath.Join(goPath, "src", "scriptRunner/scripts/connect.py")
-	log.Println("Generating load files for Medicaid LOB...")
+	scriptPath := filepath.Join(goPath, "src", "scriptRunner/scripts/hello.py")
 	log.Println("Scriptpath: " + scriptPath)
 	c := exec.Command("/usr/local/bin/python", scriptPath, "--output="+dir)
 	err = c.Run()
