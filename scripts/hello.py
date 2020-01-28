@@ -1,5 +1,5 @@
 import os
 
 path = os.path.abspath("test.txt")
-tmpFile = open(path, 'a')
-tmpFile.writelines("Some New Lines")
+tmpFile = open(path, 'w')
+tmpFile.writelines("Hello World...")
