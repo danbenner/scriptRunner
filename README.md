@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-- golang (developed with 1.12.7)
+- golang (developed with 1.13.4)
 
 - python (developed with 2.7.15)
 
