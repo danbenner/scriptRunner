@@ -6,7 +6,7 @@
 
 - golang (developed with 1.13.4)
 
-- python (developed with 2.7.15)
+- python (developed with 3.7.5)
 
 
 # Environment Setup
