@@ -1,3 +1,3 @@
 select *
-from hra_app_own.reward 
-where hra_unit = 19;
+from tableName
+where value = 19;
